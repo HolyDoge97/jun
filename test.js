@@ -1,7 +1,7 @@
 
 // 평균값 구하기
 // 낄낄낄낄낄낄낄낄낄ㅛ
-// zzz
+// zzzㅅㄷㄴㅅ
 
 
 // function solution(arr) {
