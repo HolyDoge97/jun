@@ -2,6 +2,7 @@
 // 평균값 구하기
 // 낄낄낄낄낄낄낄낄낄ㅛ
 // zzzㅅㄷㄴㅅ
+//  easdasd
 
 
 // function solution(arr) {
